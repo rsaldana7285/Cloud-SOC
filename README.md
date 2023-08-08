@@ -52,7 +52,7 @@ Stop Time 2023-08-02 14:24:55
 
 ## Attack Maps Before Hardening / Security Controls
 
-```All map queries returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+```All map queries returned no results of malicious activity for the 24 hour period after hardening. NIST 800-53 Regulatory Compliance Policy. Focusing on SC-7 enabling MFA and implementing Azure Firewall.```
 
 ## Metrics After Hardening / Security Controls
 
